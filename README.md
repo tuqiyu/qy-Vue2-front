@@ -1,4 +1,7 @@
-# app
+电商前台项目
+
+Vue2、Vuex、Vue Router、Axios、ElementUI. 
+
 
 ## Project setup
 ```
