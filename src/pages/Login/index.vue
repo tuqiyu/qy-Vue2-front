@@ -6,7 +6,7 @@
         <div class="loginform">
           <ul class="tab clearFix">
             <li>
-              <a href="##" style="border-right: 0">扫描登录12</a>
+              <a href="##" style="border-right: 0">扫描登录123</a>
             </li>
             <li>
               <a href="##" class="current">账户登录</a>
